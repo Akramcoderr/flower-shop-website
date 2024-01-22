@@ -1,0 +1,20 @@
+/* header related styles */
+.banner {
+    background-color: rgba(229, 84, 115, 0.10);
+    
+}
+
+.banner {
+    display: flex;
+}
+
+.banner-poster {
+    
+}
+.banner-content{
+    justify-content: center;
+    
+}
+/* .img-part{
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+} */
