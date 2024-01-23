@@ -15,6 +15,26 @@
     justify-content: center;
     
 }
-/* .img-part{
-    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
-} */
+/* our featured flower section */
+.showcase-container{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+}
+/* Icon related section */
+.icon-display{
+    display: flex;
+    justify-content: space-between;
+    background-color: bisque;
+    padding: 30px;
+}
+/* Hot deal section */
+.hot-deal{
+    display: flex;
+}
+.left-column{
+    justify-content: center;
+}
+section > div{
+    display: flex;
+}
